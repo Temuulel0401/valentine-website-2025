@@ -53,14 +53,6 @@ const CONFIG = {
         message: "Now come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
-    // Our Memories Gallery
-galleryImages: [
-    "images/photo1.png",
-    "images/photo2.png",
-    "images/photo3.png"
-    "images/photo4.png"
-],
-
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
@@ -93,6 +85,13 @@ galleryImages: [
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
+    // Our Memories Gallery
+galleryImages: [
+    "images/photo1.png",
+    "images/photo2.png",
+    "images/photo3.png"
+    "images/photo4.png"
+],
 
 // Don't modify anything below this line unless you know what you're doing
 window.VALENTINE_CONFIG = CONFIG; 
